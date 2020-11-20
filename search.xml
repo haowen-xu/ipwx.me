@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[五月份拍摄的第二批校园风景]]></title>
+    <url>%2F2020%2F05%2F27%2F%E4%BA%94%E6%9C%88%E4%BB%BD%E6%8B%8D%E6%91%84%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%89%B9%E6%A0%A1%E5%9B%AD%E9%A3%8E%E6%99%AF%2F</url>
+    <content type="text"><![CDATA[起初有人和我说起德毒的好，我是不屑一顾的。你不能让我用德毒风格处理照片，就用德毒风格呀。比起厚重的阴影，我更喜欢明亮和鲜艳的色彩，比如穿着白丝的小姐姐在灿烂的阳光下翩翩起舞…… 可是当我开始用德毒预设处理风景照以后，我只能感叹：这可真香。我这段时间拍的照片，焦段和构图也慢慢开始变得自由了起来，不再拘泥于长焦静物。对于广角的应用有了一些感觉，比如用适马 16 1.4 拍摄的照片：我最满意的一组照片拍摄于一个阳光灿烂的下午，用的是索尼 E18-135：我还尝试了包围曝光 + 后期 HDR 的夜景照片，用的是适马 16 1.4：]]></content>
+      <categories>
+        <category>摄影</category>
+      </categories>
+      <tags>
+        <tag>摄影</tag>
+        <tag>风景</tag>
+        <tag>校园</tag>
+        <tag>a6600</tag>
+        <tag>e18-135</tag>
+        <tag>适马 16 1.4</tag>
+        <tag>胶片预设</tag>
+        <tag>德毒</tag>
+        <tag>Lightroom</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[四至五月份拍摄的第一批校园风景]]></title>
+    <url>%2F2020%2F05%2F27%2F%E5%9B%9B%E8%87%B3%E4%BA%94%E6%9C%88%E4%BB%BD%E6%8B%8D%E6%91%84%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E6%A0%A1%E5%9B%AD%E9%A3%8E%E6%99%AF%2F</url>
+    <content type="text"><![CDATA[这些照片是我购买了 a6600 之后第一批拍摄的校园风景。这个阶段我从焦段和构图、到后期处理，都经历了一段时间的摸索。在最早的一组照片中，由于不太能抓住广角构图的感觉，只能大量使用长焦虚化拍花鸟和局部的静物。第一批照片还大量使用 Aurora HDR 做自动化处理。第二组照片尝试使用适马 30 1.4 拍摄，Capture One 做后期，倒也感觉还不错。之后尝试使用适马 16 1.4 进行拍摄。夕阳下的这张沥青路的照片倒是挺有感觉的。后期使用了 Adobe Camera Raw。我也尝试把照片往更有艺术感的方向调整，但没有太好的思路。只能做了暗角，聊胜于无。这一阶段最后一组照片我尝试通过 Camera Raw 把色彩调整到了足够明亮鲜艳、让人看上去舒服的程度。虽然平平无奇没有艺术风格，但是至少在对色彩的把握上算是进了一步。]]></content>
+      <categories>
+        <category>摄影</category>
+      </categories>
+      <tags>
+        <tag>摄影</tag>
+        <tag>风景</tag>
+        <tag>校园</tag>
+        <tag>a6600</tag>
+        <tag>e18-135</tag>
+        <tag>适马 16 1.4</tag>
+        <tag>适马 30 1.4</tag>
+        <tag>Aurora HDR</tag>
+        <tag>Capture One</tag>
+        <tag>Camera Raw</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2017 年度总结]]></title>
+    <url>%2F2017%2F12%2F31%2F2017%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[转眼间 2017 年就这么过去了，回想一下的话时间过得还真快。去年的这个时候，我怀着五味杂陈的心情写了篇年度总结。那时候的我对于机器学习和深度学习这两者还没有完全领会神髓，对于数学的学习又处于零零碎碎不成体系的阶段，而做了好久的 Cake 项目又眼看着完全没法用，所以不能说心情很好。不过今年事情稍稍发生了一点变化，我各个方面都有了点“感觉”，无论是机器学习和深度学习，还是数学，亦或者是各种轮子的编程，我都有不小的收获。因此今年的这个总结，我总体来说还是挺开心的。首先是对去年目标的一些回顾去年的这个时候，我写下了这四个目标：发（至少）一篇机器学习的论文，作为这两年困顿心路的一个终点，以及新的起点。复习微积分，学习数学分析，以及群论，为我想要达成的终极目标作准备。在 (2) 的基础上，如果能顺便学一下常微分和偏微分方程就好了。是不是应该在 (3) 的基础上更贪心一点……第一个目标倒是恰好实现了。前不久，12月22日，WWW2018 的结果出来了，我那篇做异常检测的论文好歹录取了。那篇论文在我看来不能算是水文，但也不是什么特别高深的文章，只能算是在一个非常非常微小的点上面做了些许深入的工作吧。不管怎么样，算是一个不错的起点。第二个目标的话有些微妙。我在今年初的时候捡起了 “Principle of Mathematical Analysis” (Rudin)，痛苦地看了三四个月，结果也只看了不到一半。这本书的风格实在是太抽象了，我也只能做到看懂定理，可是却掌握不了分析的神髓。后来我去做论文了，也就耽搁了。等到八九月份，转换心情的时候，我挑了本 “Understanding Analysis” (Stephen)。这本书写的可真是好，一下了让我茅塞顿开，对于“分析”到底是干什么的有了清晰的认识。可惜，后来写论文去了，所以也只看了一半。等到写完论文（11月头），我本来想继续看这本书的，谁知道在看 MCMC Sampling 的过程中一直看到“测度”的叙述，想到 “Understanding Analysis” 算是实分析入门，没有测度的内容，于是打开了一本 “Measures, Integrals and Martingales” (Schilling)，倒也看了三分之一，对于测度也有了点模糊的认识。所以我处于总算对“分析”到底能干什么、关注什么有了初步的认识，可惜教材都还没看完的程度。看起来 2018 年第一件事情就是把这两本书搞定。当然，至于群论嘛，我现在已经明白，目前不适合分心去看那边。还是沿着实分析、测度、泛函分析这条路径先走通再说，顺便分支还可以练一练微积分和微分方程。第三第四点目标，就不提了，反正也没做。对于去阿里实习做论文的看法对此我只有这么一个评价：公司做事被业务束缚太严重了。学术问题还是学术定义更好，阿里那边就是不肯把异常检测充分抽象出来研究，什么“每月几号晚上十二点有压力测试，那时候的异常不算异常”之类的规定，根本不可能用无监督算法搞定。在报警的时候最后忽略算法的输出，才是处理这种情况唯一正确的做法。还好我六月之后严格定义了什么是“异常”，聚焦在这个学术性定义上做研究，才取得了快速的进展，不然我的论文还不知道在哪个犄角旮旯呢。机器学习和深度学习的研究进展我还是没能完全找到稳定可持续的研究路径。不过好歹彻底搞懂了 Variational Inference 是啥，并且由此延伸出去对于 Monte Carlo Methods，以及深度概率模型（特别是贝叶斯网络）有了清晰的认知，会推公式，写代码也不在话下。作为反补，像什么 EM 算法也是轻车熟路了。所以感觉也还不错。另外我的一个对于机器学习和深度学习研究的主观看法在那篇论文里面初步得到了验证：借助数据的特性设计算法，然后根据算法的结果研究其中的数学特性，可以发现很多前人没有发现的有趣的事情，而不是单纯地在他人的想法上做点微小的改进。各种轮子项目年初的时候我在做实验的过程中写了两个轮子： MLComp 以及 TFSnippet。前者是一个实验报表平台，后者是写 TensorFlow 模型的一些工具。在这个过程中，我还研究了 ZhuSuan，贡献了一点点小代码。研究 ZhuSuan 对于我吃透 Variational Inference 有很大帮助。MLComp 在设计上有很多缺陷，单纯文件系统扫描支撑不了报表页上展示太多实验，因此我决定不再改进它。我打算把产生 HTML 报告的部分摘出来放到项目 MLToolkit 中。目前还是起步阶段，不过 HTML 报告这部分也用不了多少代码。而报表页面的话，我觉得它应该被吸收到 Cake 那个大框架里面，而不是额外写个什么系统。我找了两个 SRT 同学帮我写 Cake 2.0。我不打算亲自动手写，而慢慢调教他们，和他们一起设计架构。对于这个模式，我倒也有了一点点心得。TFSnippet 则是另一个光景了。我上个月整理了 TFSnippet 的代码，接下来还打算补上文档，正式发布了。不管有多少人会用它，我觉得它现在的样子已经很好用了。而且不管怎么样，它真正实现了我的目标：用充分的测试把控实验代码的正确性，保证匆忙实验的过程中不会犯低级错误。明年的目标明年的目标主要有这么几个：建立可持续的深度学习研究轨道。我不想针对某个项目去 Ad-Hoc 地研究某个话题，而是在建立 Big Picture 的情况下有目的地筛选项目，建立一个 Research Track，能在将来持续地推进我对于机器学习和深度学习的研究。发两三篇深度学习的论文。学习实分析、测度论、泛函分析。有空再看看复分析。争取把分析的入门基本搞定。]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[纪念滚滚而去的 2016 年]]></title>
+    <url>%2F2016%2F12%2F31%2F%E7%BA%AA%E5%BF%B5%E6%BB%9A%E6%BB%9A%E8%80%8C%E5%8E%BB%E7%9A%842016%E5%B9%B4%2F</url>
+    <content type="text"><![CDATA[2016 年，就在今晚，即将滚滚而去。这几天一直想要写个年度总结什么的，可是临近午夜，却不知道该写什么好。并不是因为这一年过得太平淡，而是很多情感已经融入到了我日常的生活中，没有什么特别提及的必要了。但是不管怎么说，总还是得稍微写一写这一年所发生的事情，以待将来缅怀之用罢。两条主线我依稀记得这一年是从一个项目和若干考试开始，拉开帷幕的。一个项目，是“机器学习实验平台”项目，或称为 cake 项目。立项自本科毕业设计，参考了我在微软亚研院实习的时候见到他们内部使用的实验平台，同时也为了各种不同的假象中的用户添加了很多复杂的设计，以至于整个项目进行了超过一年时间。直到最后，我已经搞不清这个实验平台，至少在设计上，对于我个人以及周遭的其他人是不是真的有意义了。当然从结果上看来，这个实验平台是没能用起来的。直到今年 4 月份，服务器端成型的时刻，依旧没有一个能够投入使用的、简单易用的图形界面。时至今日，我已开始全面转向机器学习的研究，我越发地感觉到，虽然这个项目的设想确实非常令人激动，服务器的实现也如预想般高度集成，但是就算没有这个项目，我依旧能够通过日常使用服务器的过程中积累的各种脚本，达成一大半自动化实验的期望。直白一点来说，没有一个功能完善的实验系统，我也能凑合着做实验。所以这个系统也就被我搁置了。更糟糕的是，由于这个系统在设计上是集成化的，很难把每个部件拆开单独使用，所以在可以预见的将来，缺少图形界面的情况下，这个系统也很难在实践中真正被用起来。不过这一年时间也并非被浪费掉了。首先，我也并非花了整整一年只用来做这个系统。数学方面，我修了最优化方法、泛函分析和组合数学三门课。这一年开始时的若干考试，说的就是这三门课的期末考。虽然最终三门课的成绩都不算太好，实在是遗憾得很。如果当时没有做 Cake 项目，又或者三门课我只修两门，也许考得就会好一点吧？机器学习方面，我修了统计机器学习课程，并在之后又阅读了 “Deep Learning” 和 “Pattern Recognition and Machine Learning” 两本书。如果说把设计与实现 Cake 项目看做一条主线，而把数学和机器学习的理论学习看做另一条主线，那么我在理论主线上的学习，还是颇具成效的。Cake 项目也并没没给我带来任何直接的好处。为了 Cake 项目，我前前后后一共写了三至四万行 Sacla 代码和近两万行 Python 代码；当然，都计算了空行和注释。如此大量的工程实践让我建立了不错的工程直觉。如果让我再一次设计 Cake 项目的话，我有把握做到把整个系统进行拆分，使得整个系统在项目进行的过程中逐步成型；先开发最小功能子集，然后再根据实际的需求对每个功能进行升级。同时，灵活使用各种语言框架和其他的开源系统。所有这一切原则的目标都是尽快用上系统，使得整个开发过程得到正向反馈，而不是对着一个水月镜花的目标前进——如果当时我有这样的意识的话，也许 Cake 项目真能用起来也说不定吧。这样的工程直觉已经给我带来了具体的好处。最近三个月，在我研究深度学习方法应用在时序数据中的过程中，已经整理出了一个复用性非常高的基础库，并且在每天的实验中真正起了作用。明晰愿望2016 年对于我最重要的事情，就是我终于明晰了个人的愿望。在刚刚跨入 2016 年的时候，其实我还是有一些迷惘的。在本科时代的很长一段时间里面，我一直以为我将来的人生也就这样了：会写点代码，找个凑合得过去的工作，得过且过。无论是爱情还是金钱都不能提起我的兴趣，因为我觉得人生不过百年，还要每天为了活着而活着，“心为形役”，活得这么不自由，一点也不开心。果然还是把一切都寄托在二次元的世界里面好，因为那样的世界是无限绚丽与自由自在的。然而直到我接触了科学哲学课（近代科学，尤其是物理学哲学思想的科普），接触了神经网络，并由此触摸到了真正的数学，一切都改变了。我第一次发现，原来现实世界中是存在真正的自由的。在数学、物理和哲学的世界里面，只要有坚实的功底，再加上一点点想象力，那么整个世界都唾手可及。这个世界和二次元的世界竟然同等地绚丽和自由。可是意识到这一点的时候，一切都已经太晚了。我这一生大概也不可能做一个数学家或者物理学家，因为那时的我已经度过了大学近三年的时光，并且在数学和物理方面可以说是一无是处。就算是做个人工智能和机器学习的学者，在当时的我看来也是难于上天的，毕竟我在这个方面就是一张白纸，连第一笔落在哪里都完全不知。所以在 2015 年整个一年的时间里面，我都在试图追逐别人的脚印，徒劳地去寻找属于自己的道路，可是内心是困顿的，是疑虑的。我总是在问自己，我真的能做人工智能和机器学习的研究吗？我真的想做人工智能和机器学习的研究吗？这个问题在今年初的一个冬日夜晚得到了解答。那时的我走出实验室，看着广袤而无穷的黑色夜空，突然发觉人类是那么地渺小。就算是人类之中最厉害的那些数理大神，也依旧不能超越人类的生理极限。一个最直接的佐证，就是基础自然科学在根本上，已经很久没有突破性进展了。或许哪一天，人类就会在这个生理极限所设下的壁垒前，再也不得进寸步。所以人工智能最重要的意义，绝不在于模仿人类的情感，而是作为一种工具，去突破人类的智力极限。将来总会有一天，基础自然科学的突破，不得不求助于机器的智能。那一刹那，我终于明晰了自己的愿望——“愿凭此非神之躯，为你上听天意的道路中，铺下一片青砖。”我要为了那一天的到来而做些什么。并不是因为我觉得自己有多聪明——比起历史上的那些大神，我毫不怀疑自己的愚蠢与弱小。我唯一能够凭借的，大概只有这个非神之躯，还有这份朝着上听天意的道路前进的勇气罢了。新年愿景在本文的最后，就让我用最简洁的方式，来叙述一下新年的愿景吧。发（至少）一篇机器学习的论文，作为这两年困顿心路的一个终点，以及新的起点。复习微积分，学习数学分析，以及群论，为我想要达成的终极目标作准备。在 (2) 的基础上，如果能顺便学一下常微分和偏微分方程就好了。是不是应该在 (3) 的基础上更贪心一点……好吧，那么就启程吧。向着星辰大海，前进。]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[以非神之躯上听天意]]></title>
+    <url>%2F2016%2F02%2F06%2F%E4%BB%A5%E9%9D%9E%E7%A5%9E%E4%B9%8B%E8%BA%AF%E4%B8%8A%E5%90%AC%E5%A4%A9%E6%84%8F%2F</url>
+    <content type="text"><![CDATA[前段时间因为一些事情开始怀疑自己的智商。嘛，其实很久以前我就开始明白自己的智商有限了，但总还是不肯承认。但是前段时间发生的一点事情让我不得不看到了智商所构成的壁垒。然而在一周前的某个漆黑的夜晚，在我从实验室走出来的时候，我突然这么想道：我的智商比起顶尖的人类是那么的遥远，但是顶尖人类的智商，在整个宇宙的图景下面，却也是那么地渺小。没有人能够明白四维以上的空间究竟长什么样。数学家甚至还给不出一个突破了排中律的完整的数学体系。理发师悖论只是被完美回避了，而不是被解决了。无限带来的许多问题尚且还没有被很好地解决。人类是那么地弱小。但是人类却还坚持“以非神之躯上听天意”。在这样的精神面前，一切的懦弱、一切的退却，都是可笑的，都是弱者的自怨自艾罢了。认清自己的智商有限是个好事，至少可以放弃很多不切实际的妄想，把有限的生命聚焦在有意义的事情上，而不是沉醉在妄想之中，因为追逐不可能达成的事情而一事无成。人类在蛮荒时代，为了突破体力的极限而制造了工具，最终达成了进化，统治了这个世界。那么在现代，为什么不能为了突破智力的极限去制造工具呢？]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[调整 Terminal.app 的配色]]></title>
+    <url>%2F2015%2F02%2F03%2F%E8%B0%83%E6%95%B4Terminal-app%E7%9A%84%E9%85%8D%E8%89%B2%2F</url>
+    <content type="text"><![CDATA[刚买来 MacBook Air 的时候，会发现它的终端简直挫爆了，白底黑字还没有颜色。然后许多人就会诉诸 iTerm2.app 这样的第三方应用。事实上只要简单配置一下，Terminal.app 也是不错的。为了兼容大部分的 Linux 发行版使用习惯，在 ~/.bash_profile 中加入以下内容：1234567# Only for Mac OS X, where .bashrc is otherwise ignoredif [ -f ~/.bashrc ]; thensource ~/.bashrcfiif [ -f ~/.bash_aliases ]; then. ~/.bash_aliasesfi这几行代码的作用是自动加载 ~/.bashrc 和 ~./bash_aliases 中的配置。其次，创建 ~/.bashrc，加入以下内容：123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116# .bashrc# Source global definitionsif [ -f /etc/bashrc ]; then . /etc/bashrcfi# We use colorful bashexport TERM="xterm-color"# User specific aliases and functions# ~/.bashrc: executed by bash(1) for non-login shells.# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)# for examples# If not running interactively, don't do anything[ -z "$PS1" ] &amp;&amp; return# don't put duplicate lines in the history. See bash(1) for more options# ... or force ignoredups and ignorespaceHISTCONTROL=ignoredups:ignorespace# append to the history file, don't overwrite itshopt -s histappend# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)HISTSIZE=1000HISTFILESIZE=2000# check the window size after each command and, if necessary,# update the values of LINES and COLUMNS.shopt -s checkwinsize# make less more friendly for non-text input files, see lesspipe(1)[ -x /usr/bin/lesspipe ] &amp;&amp; eval "$(SHELL=/bin/sh lesspipe)"# set variable identifying the chroot you work in (used in the prompt below)if [ -z "$debian_chroot" ] &amp;&amp; [ -r /etc/debian_chroot ]; then debian_chroot=$(cat /etc/debian_chroot)fi# set a fancy prompt (non-color, unless we know we "want" color)case "$TERM" in xterm-color) color_prompt=yes;;esac# uncomment for a colored prompt, if the terminal has the capability; turned# off by default to not distract the user: the focus in a terminal window# should be on the output of commands, not on the prompt# force_color_prompt=yesif [ -n "$force_color_prompt" ]; then if [ -x /usr/bin/tput ] &amp;&amp; tput setaf 1 &gt;&amp;/dev/null; then # We have color support; assume it's compliant with Ecma-48 # (ISO/IEC-6429). (Lack of such support is extremely rare, and such # a case would tend to support setf rather than setaf.) color_prompt=yes else color_prompt= fifiunset color_prompt force_color_prompt# If this is an xterm set the title to user@host:dircase "$TERM" inxterm*|rxvt*) PS1="\[\e]0;$&#123;debian_chroot:+($debian_chroot)&#125;\u@\h: \w\a\]$PS1" ;;*) ;;esac# some more ls aliasesalias ls='ls -G'alias ll='ls -alF'alias la='ls -A'# Set color on grepalias grep='grep --color=auto'# Alias definitions.# You may want to put all your additions into a separate file like# ~/.bash_aliases, instead of adding them here directly.# See /usr/share/doc/bash-doc/examples in the bash-doc package.if [ -f ~/.bash_aliases ]; then . ~/.bash_aliasesfi# enable programmable completion features (you don't need to enable# this, if it's already enabled in /etc/bash.bashrc and /etc/profile# sources /etc/bash.bashrc).if [ -f /etc/bash_completion ] &amp;&amp; ! shopt -oq posix; then . /etc/bash_completionfiif [ "`id -u`" == "0" ]; then PS1='\[\033[01;31m\]\h\[\033[01;34m\] \W \$\[\033[00m\] 'else PS1="\[\033[01;32m\]\u@\h\[\033[01;34m\] \w \$\[\033[00m\] "fi# For schroot environmentif [ -f "/etc/in-chroot" ]; then export DISPLAY=:0.0 if [ "`id -u`" == "0" ]; then PS1='\[\033[01;31m\](chroot)\h\[\033[01;34m\] \W \$\[\033[00m\] ' else PS1='\[\033[01;32m\](chroot)\u@\h\[\033[01;34m\] \w \$\[\033[00m\] ' fifi# export the Editorexport EDITOR="vim"代码是从 Debian 系统中直接拷贝出来的，删去了一些和 OS X 没有半点关系的内容。我没有仔细研究 bashrc 的配置，只是这段足够开启彩色模式而已。此外最后一行 export EDITOR=&quot;vim&quot; 是我的个人习惯。最后是解决终端白底黑字的配色问题。个人推荐使用 Smyck 这个配色。安装此配色，然后在 Terminal.app 的配置中设置为默认。如果喜欢磨砂透明，可以调整其背景的透明度和模糊程度。最后得到的终端效果为：]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>OS X</tag>
+        <tag>配置</tag>
+        <tag>配色</tag>
+      </tags>
+  </entry>
+</search>
